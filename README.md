@@ -16,7 +16,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/nemanja-milosavljevic-a73444218" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><a target="_blank" href="[https://www.linkedin.com/in/nemanja-milosavljevic-a73444218](https://www.upwork.com/freelancers/~017fcc2b2c6b184aee)" style="display: inline-block;"><img src="[https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=)" alt="linkedin" /></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost9742&show_icons=true&locale=en" alt="ghost9742" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghost9742&" alt="ghost9742" /></p>
