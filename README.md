@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/37450227?v=4" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Nemanja, a frond-end/wordpress web developer 👨‍💻 </div>  
+  ### <div align="center">I'm Nemanja, a frond-end/wordpress web developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Wordpress development](https://github.com/ghost9742/wordpress)  
